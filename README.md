@@ -157,3 +157,15 @@ Contains customer support information such as:
              │
              ▼
    🎯 Recommendations
+
+
+### 📌 For the images
+
+For the dashboard screenshots, create a folder named:
+
+```text
+screenshots
+
+
+
+
